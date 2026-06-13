@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Production builds
+dist/
+
+# Local environment variables
+.env.local
+.env.development.local
+.env.production.local
+.env.staging.local
